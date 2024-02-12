@@ -1,58 +1,54 @@
-# Project Title
+# The New Guard
 
-Simple overview of use/purpose.
+The New Guard is a very basic game that explores some of the features of the [Phaser](https://phaser.io/) game engine.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Defend the world from a mysterious adversary by shooting the missiles before they reach the targets. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Node JS
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Install the project dependencies
+```
+npm install
+```
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Run the Vite dev server
 ```
-code blocks for commands
+npm run dev
 ```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Slashwit <-- Me
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 0.0.1
+    * Basic working game but still needs work.
+
+## Credits
+ 
+Game Design - Brandon Beaulieu
+Lead Developer - Brandon Beaulieu
+Artist - Brandon Beaulieu
 
 ## License
+ 
+The MIT License (MIT)
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Copyright (c) 2024 Brandon Beaulieu
 
-## Acknowledgments
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+
+
 
