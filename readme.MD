@@ -29,13 +29,13 @@ npm run dev
 ## Version History
 
 * 0.0.1
-    * Basic working game but still needs work.
+   * Initial commit of the basic working game.
 
 ## Credits
  
-Game Design - Brandon Beaulieu
-Lead Developer - Brandon Beaulieu
-Artist - Brandon Beaulieu
+* Game Design - Brandon Beaulieu
+* Lead Developer - Brandon Beaulieu
+* Artist - Brandon Beaulieu
 
 ## License
  
